@@ -1,4 +1,4 @@
-![Adaptive Ally Cover](./cover.jpg)  
+![Adaptive Ally Cover](./AA-prototype/cover.jpg)  
 
 ![Figma](https://img.shields.io/badge/Design-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
@@ -28,11 +28,11 @@ The design includes key flows such as **Sign In, Sign Up, Home, and Chat** scree
 
 | Cover | Sign In | Sign Up |  
 |-------|---------|---------|  
-| ![Cover](./cover.jpg) | ![Sign In](./Sign%20In%20Page%20.png) | ![Sign Up](./Sign%20Up%20Page%20-1.png) |  
+| ![Cover](./AA-prototype/cover.jpg) | ![Sign In](./AA-prototype/Sign%20In%20Page%20.png) | ![Sign Up](./AA-prototype/Sign%20Up%20Page%20-1.png) |  
 
 | Home | Prompt |  
 |------|--------|  
-| ![Home](./home%20page%20-1.png) | ![Prompt](./prompt.png) |  
+| ![Home](./AA-prototype/home%20page%20-1.png) | ![Prompt](./AA-prototype/prompt.png) |  
 
 ---
 
