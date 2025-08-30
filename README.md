@@ -1,4 +1,4 @@
-![Adaptive Ally Cover](./AA-prototype/cover.jpg)  
+![Adaptive Ally Cover](./cover.jpg)  
 
 ![Figma](https://img.shields.io/badge/Design-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
@@ -9,25 +9,30 @@
 ---
 
 ## 🎨 Overview  
-**Adaptive Ally** is a **UI/UX prototype** focusing on simplicity, accessibility, and modern aesthetics.  
-The prototype showcases a **signup flow, login screen, and a chat interface**, giving users a seamless experience.  
+**Adaptive Ally** is a **UI/UX prototype** showcasing an accessible, modern, and adaptive interface.  
+The design includes key flows such as **Sign In, Sign Up, Home, and Chat** screens to illustrate a smooth and user-friendly experience.  
 
 ---
 
 ## ✨ Features (UI Prototype)  
 
-- 📝 **Signup Page** – Clean and user-friendly onboarding.  
-- 🔑 **Login Page** – Secure and intuitive access flow.  
-- 💬 **Chat Page** – Modern real-time messaging layout with smooth UI components.  
-- 🎨 **Responsive UI Design** – Designed to adapt across web and mobile.  
+- 📝 **Sign Up Page** – Simple onboarding experience.  
+- 🔑 **Sign In Page** – Quick and intuitive login.  
+- 🏠 **Home Page** – Central hub for navigation.  
+- 💬 **Chat / Prompt Page** – Modern layout for communication.  
+- 🎨 **Consistent Visuals** – Minimalist and adaptive UI design.  
 
 ---
 
 ## 📸 Screenshots  
 
-| Signup | Login | Chat |  
-|--------|-------|------|  
-| ![Signup](./AA-prototype/signup.jpg) | ![Login](./AA-prototype/login.jpg) | ![Chat](./AA-prototype/chat.jpg) |  
+| Cover | Sign In | Sign Up |  
+|-------|---------|---------|  
+| ![Cover](./cover.jpg) | ![Sign In](./Sign%20In%20Page%20.png) | ![Sign Up](./Sign%20Up%20Page%20-1.png) |  
+
+| Home | Prompt |  
+|------|--------|  
+| ![Home](./home%20page%20-1.png) | ![Prompt](./prompt.png) |  
 
 ---
 
